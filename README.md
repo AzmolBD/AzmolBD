@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @AzmolBD
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning dart
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: MAN
-- ⚡ Fun fact: ...
+Hi there, I'm Azmol. I love programming and love to create new stuff and experiment with things, currently learning dart and flutter. 
 
 <!---
 AzmolBD/AzmolBD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
