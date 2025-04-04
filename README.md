@@ -1,4 +1,5 @@
-Hi there, I'm Azmol. I love programming and love to create new stuff and experiment with things, currently learning dart and flutter. 
+Assamualaikum(Peace be upon you) I'm Azmol. I love programming and love to create new stuff and experiment with things, currently learning dart and flutter.      
+
 
 <!---
 AzmolBD/AzmolBD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
